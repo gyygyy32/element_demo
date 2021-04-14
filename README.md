@@ -3,3 +3,4 @@ dispose of 处理
 exhaust 耗尽
 meet halfway 让步
 chair the meeting 主持
+multinational 跨国公司
