@@ -5,3 +5,4 @@ meet halfway 让步
 chair the meeting 主持
 multinational 跨国公司
 attended by 出席会议的有
+http://einvoice.jsczt.cn/d/4730202e95cd2946abe
